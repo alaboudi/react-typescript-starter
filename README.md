@@ -13,4 +13,4 @@ included and integrated in this repository.
 - Reselect
 - Prettier
 - Husky
-- Juest
+- Jest
